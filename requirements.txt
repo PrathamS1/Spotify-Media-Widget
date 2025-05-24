@@ -1,0 +1,6 @@
+PyQt5
+psutil
+pywin32
+spotipy
+pycaw
+comtypes
